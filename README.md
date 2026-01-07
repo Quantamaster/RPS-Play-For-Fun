@@ -44,4 +44,4 @@ The app utilizes a system instruction that defines the "Ref-O-Matic" persona. Ev
 
 Experience the Game
 with AI Studio:
-https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221SvYYoRkZ0dhCKWPHMSSwRuyikWixsl36%22%5D,%22action%22:%22open%22,%22userId%22:%22112051457885057469981%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+https://ai.studio/apps/drive/1SvYYoRkZ0dhCKWPHMSSwRuyikWixsl36
