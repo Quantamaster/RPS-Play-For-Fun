@@ -1,0 +1,5 @@
+{
+  "name": "Rock-Paper-Scissors-Console Referee",
+  "description": "A high-stakes AI-driven referee and opponent for a best-of-3 game of Rock-Paper-Scissors-Console, featuring a powerful once-per-game Bomb move.",
+  "requestFramePermissions": []
+}
