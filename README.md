@@ -45,3 +45,4 @@ The app utilizes a system instruction that defines the "Ref-O-Matic" persona. Ev
 Experience the Game
 with AI Studio:
 https://ai.studio/apps/drive/1SvYYoRkZ0dhCKWPHMSSwRuyikWixsl36
+***Also Try a Local Developed APP in new branch (game)
